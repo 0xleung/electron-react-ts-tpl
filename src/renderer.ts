@@ -1,2 +1,2 @@
-// Add this to the end of the existing file
+// import client code
 import './client';
